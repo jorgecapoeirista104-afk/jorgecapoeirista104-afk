@@ -35,6 +35,16 @@
 
 ---
 
+### 📖 Atualmente aprendendo
+
+- 🌐 **HTML** — estrutura de páginas web
+- 🎨 **CSS** — estilização e layout
+- ⚡ **JavaScript** — interatividade e lógica de programação
+
+> Passo a passo, construindo uma base sólida em desenvolvimento web.
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -55,12 +65,8 @@
 ### 📫 Como me encontrar
 
 <p align="left">
-  <!-- Troque os links abaixo pelos seus -->
-  <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+  <a href="https://instagram.com/jorgemestregolan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
