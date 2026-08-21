@@ -5,7 +5,7 @@
  - Sou lutador em algumas modalidades
  - Vou ser policial militar
 
- - <h1 align="center">Olá! 👋 Eu sou o Jorge Miguel</h1>
+<h1 align="center">Olá! 👋 Eu sou o Jorge Miguel</h1>
 
 <h3 align="center">Estudante • Lutador • Futuro Policial Militar 🥋🚔</h3>
 
@@ -28,8 +28,10 @@
 ### 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
 </p>
+
+**Foco atual:** Desenvolvimento Web (HTML, CSS, JavaScript) 🌐 | Visual Studio Code 💻 | GitHub 🐙
 
 ---
 
